@@ -1,0 +1,12 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+deep_sort_realtime
+fastapi
+numpy
+opencv-python-headless
+pydantic
+Shapely
+supervision
+ultralytics
+uvicorn
+torch
